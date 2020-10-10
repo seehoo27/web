@@ -1,1 +1,1 @@
-# web
+# Django
